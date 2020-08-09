@@ -1,6 +1,6 @@
 # 🍝 Code
 
-Code from random (old/incomplete) projects to explore different languages, algorithms, and CS concepts. Does not reflect how I currently code/contribute to professtional projects.
+Code from random (old/incomplete) projects to explore different languages, algorithms, and CS concepts. Does not reflect how I currently code/contribute to projects.
 
 ## Contents
 ### algorithms
@@ -26,7 +26,6 @@ Code from following Philipp Oppermann's [Writing an OS in Rust](https://os.phil-
 
 ### sicp
 My solutions to the problems in [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs).
-
 
 ### ubc-how-to-code
 My answers to problems from UBC's How to Code: [Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [Complex Data](https://www.edx.org/course/how-to-code-complex-data)
