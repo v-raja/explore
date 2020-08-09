@@ -13,3 +13,9 @@
 [submodule "cs143-compilers"]
 	path = cs143-compilers
 	url = https://github.com/vivkr/cs143-compilers.git
+[submodule "nand2tetris"]
+	path = nand2tetris
+	url = https://github.com/vivkr/nand2tetris.git
+[submodule "ubc-how-to-code"]
+	path = ubc-how-to-code
+	url = https://github.com/vivkr/ubc-how-to-code.git
