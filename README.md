@@ -1,6 +1,6 @@
 # 🍝 code
 
-Code from random (old/incomplete) projects to explore different languages, algorithms, and CS concepts. Does not reflect how I currently code/contribute to projects.
+Code from random (old/incomplete) projects to explore different languages, algorithms, and CS concepts.
 
 ## Contents
 ### algorithms
