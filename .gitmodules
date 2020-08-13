@@ -10,6 +10,7 @@
 [submodule "algorithms"]
 	path = algorithms
 	url = https://github.com/vivkr/algorithms.git
+	branch = master
 [submodule "cs143-compilers"]
 	path = cs143-compilers
 	url = https://github.com/vivkr/cs143-compilers.git
