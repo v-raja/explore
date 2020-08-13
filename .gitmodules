@@ -1,12 +1,15 @@
 [submodule "rust-os"]
 	path = rust-os
 	url = https://github.com/vivkr/rust-os
+	branch = master
 [submodule "geek-out"]
 	path = geek-out
 	url = https://github.com/vivkr/geek-out.git
+	branch = master
 [submodule "caltech-ee44-notes"]
 	path = caltech-ee44-notes
 	url = https://github.com/vivkr/caltech-ee44-notes.git
+	branch = master
 [submodule "algorithms"]
 	path = algorithms
 	url = https://github.com/vivkr/algorithms.git
@@ -14,9 +17,12 @@
 [submodule "cs143-compilers"]
 	path = cs143-compilers
 	url = https://github.com/vivkr/cs143-compilers.git
+	branch = master
 [submodule "nand2tetris"]
 	path = nand2tetris
 	url = https://github.com/vivkr/nand2tetris.git
+	branch = master
 [submodule "ubc-how-to-code"]
 	path = ubc-how-to-code
 	url = https://github.com/vivkr/ubc-how-to-code.git
+	branch = master
